@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/dialogue.svg</file>
+        <file>res/face.svg</file>
+        <file>res/programming.svg</file>
+        <file>res/robot_on.svg</file>
+        <file>res/robot_error.svg</file>
+        <file>res/robot_connecting.svg</file>
+        <file>res/robot_off.svg</file>
+    </qresource>
+</RCC>
